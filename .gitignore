@@ -1,0 +1,8 @@
+#Imagenes 
+
+*.jpg
+imagenes
+
+#Carpeta creada por Mac
+
+.DS_Store
