@@ -1,7 +1,10 @@
-#Imagenes 
-
+# Archivos de imágenes
 *.jpg
-imagenes
+*.png
+
+# Carpetas
+imagenes/
+/imagenes/*
 
 #Carpeta creada por Mac
 
