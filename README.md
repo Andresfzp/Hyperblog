@@ -10,4 +10,4 @@ Maybe no one will ever read this file, but if you are reading I can tell you, ne
 
 ------------
 Andrés Zambrano - Data Scientist
-[http://https://platzi.com/@Andresfzp/]
+[Linkedin Profile](https://www.linkedin.com/in/andresz01/ "Linkedin Profile")
